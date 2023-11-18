@@ -2,7 +2,7 @@
 
 * I own the domain entzomc.com
 * Owner of [EntzoMC](https://github.com/EntzoMC)
-* Owner of [Drawer mod (Not "Storage Drawers")](https://entzomc.com/mods)
+* Owner of [Drawer mod](https://entzomc.com/mods) (Not ["Storage Drawers"](https://www.curseforge.com/minecraft/mc-mods/storage-drawers))
 
 Socials:
 * Twitter: [@EntzoMC](https://twitter.com/EntzoMC)
