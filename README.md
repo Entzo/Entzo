@@ -1,16 +1,14 @@
-### Hi there 👋
+# I'm Entzo!
 
-<!--
-**Entzo/Entzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I own the domain entzomc.com
+* Owner of [EntzoMC](https://github.com/EntzoMC)
+* Owner of [Drawer mod (Not "Storage Drawers")](https://entzomc.com/mods)
 
-Here are some ideas to get you started:
+Socials:
+* Twitter: [@EntzoMC](https://twitter.com/EntzoMC)
+* Discord: entzomc
+* Discord Server: [Invite link](https://discord.entzomc.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact emails:
+* [entzo@entzomc.com](mailto:entzo@entzomc.com)
+* [contact@entzomc.com](mailto:contact@entzomc.com)
